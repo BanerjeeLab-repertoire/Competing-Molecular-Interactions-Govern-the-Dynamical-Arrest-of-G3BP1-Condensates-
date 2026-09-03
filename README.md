@@ -1,4 +1,5 @@
 Competing Molecular Interactions Govern the Dynamical Arrest of G3BP1 Condensates
+
 The repository contains the code used for processing and analyzing data for the paper- "Competing Molecular Interactions Govern the Dynamical Arrest of G3BP1 Condensates".
 
 Software: Anaconda distribution v2024.10-1
